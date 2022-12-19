@@ -1,5 +1,5 @@
 # Spring-MVC-Product-CRUD
-A Java Spring MVC based  Product Application that has basic CRUD operations
+Super market project in which we can insert new products,fill the description,add quantity,add price and also date at which it get added
 <br/><br/>
 ## Screenshots
 ## Home Page<br/>
